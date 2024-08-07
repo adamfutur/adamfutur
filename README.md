@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **matchReserve**
 - 🌱 I’m currently learning **ML Algorithms**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/ADAMFUTUR?tab=repositories)
-- 📝 I regularly write articles on my X account [@aimlwool](https://www.instagram.com/aimlwool/)
+- 📝 I regularly write articles on my X account [@aimlwool](https://x.com/AdamImloul)
 - 💬 Ask me about **Front-end development**
 - 📫 How to reach me **imlouladam8@gmail.com**
 - 📄 Know about my experiences [My LinkedIn Profile](https://www.linkedin.com/in/adam-imloul-050057225/)
@@ -101,21 +101,3 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-
-  <h3 align="left">Gallery:</h3>
-<p align="left">
-  <img src="https://via.placeholder.com/150" alt="Placeholder Image 1" width="150" height="150" />
-  <img src="https://via.placeholder.com/150" alt="Placeholder Image 2" width="150" height="150" />
-  <img src="https://via.placeholder.com/150" alt="Placeholder Image 3" width="150" height="150" />
-</p>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamfutur&show_icons=true&locale=en&layout=compact" alt="adamfutur" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamfutur&show_icons=true&locale=en" alt="adamfutur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamfutur&" alt="adamfutur" /></p>

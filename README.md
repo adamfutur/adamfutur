@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm IMLWOOL</h1>
+<h3 align="center">A passionate developer from Morocco</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamfutur&label=Profile%20views&color=0e75b6&style=flat" alt="adamfutur" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamfutur" alt="adamfutur" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://x.com/adamimloul" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/adamimloul?logo=twitter&style=for-the-badge" alt="https://x.com/adamimloul" /></a> </p>
 # 💫 About Me:
 <br>- 🔭 I’m currently working on **matchReserve**<br><br>- 🌱 I’m currently learning **ML Algorithms**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/ADAMFUTUR?tab=repositories](https://github.com/ADAMFUTUR?tab=repositories)<br><br>- 📝 I regularly write articles on my x account [https://www.instagram.com/aimlwool/](https://www.instagram.com/aimlwool/)<br><br>- 💬 Ask me about **Front-end dev**<br><br>- 📫 How to reach me **imlouladam8@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/adam-imloul-050057225/](https://www.linkedin.com/in/adam-imloul-050057225/)<br><br>- ⚡ Fun fact **I code while eating ☠️**<br>
 

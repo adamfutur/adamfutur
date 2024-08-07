@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IMLWOOL</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamfutur&label=Profile%20views&color=0e75b6&style=flat" alt="adamfutur" /> </p>
 
@@ -11,15 +11,26 @@
 
 - 🌱 I’m currently learning **ML Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://adamfutur.github.io/adamiml.github.io/](https://adamfutur.github.io/adamiml.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/ADAMFUTUR?tab=repositories](https://github.com/ADAMFUTUR?tab=repositories)
+
+- 📝 I regularly write articles on my x account [https://www.instagram.com/aimlwool/](https://www.instagram.com/aimlwool/)
 
 - 💬 Ask me about **Front-end dev**
 
 - 📫 How to reach me **imlouladam8@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/adam-imloul-050057225/](https://www.linkedin.com/in/adam-imloul-050057225/)
+
+- ⚡ Fun fact **I code while eating ☠️**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imlwool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imlwool" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adam-imloul-050057225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adam-imloul-050057225/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/adam.imloul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adam.imloul/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/imlwool/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imlwool/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@imlouladam8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@imlouladam8" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@imlwoolchannel883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@imlwoolchannel883" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamfutur&show_icons=true&locale=en" alt="adamfutur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamfutur&" alt="adamfutur" /></p>
-

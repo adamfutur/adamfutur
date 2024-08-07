@@ -101,6 +101,14 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
+
+  <h3 align="left">Gallery:</h3>
+<p align="left">
+  <img src="https://via.placeholder.com/150" alt="Placeholder Image 1" width="150" height="150" />
+  <img src="https://via.placeholder.com/150" alt="Placeholder Image 2" width="150" height="150" />
+  <img src="https://via.placeholder.com/150" alt="Placeholder Image 3" width="150" height="150" />
+</p>
+
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>

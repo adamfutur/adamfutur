@@ -1,79 +1,127 @@
-# 💫 About Me
 
-- 🔭 I’m currently working on **voteChain**  
-- 🌱 I’m currently learning **ML Algorithms**  
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/ADAMFUTUR?tab=repositories)  
-- 📝 I regularly write articles on my [Instagram](https://www.instagram.com/aimlwool/)  
-- 💬 Ask me about **Front-end development**  
-- 📫 How to reach me: **imlouladam8@gmail.com**  
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/adam-imloul-050057225/)  
-- ⚡ Fun fact: **I code while eating ☠️**
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
+
+<h1 align="center">ADAM IMLOUL</h1>
+<h3 align="center"><code>&lt; Cyber-Architect & AI Explorer /&gt;</code></h3>
 
 ---
 
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adam.imloul/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imlwool/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-imloul-050057225/)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/lkhatr22/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdamImloul)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@imlwoolchannel883)  
+<p align="center">
+  <em>I build seamless digital experiences and explore the frontiers of Artificial Intelligence.<br />
+  My passion lies in crafting elegant, efficient code that solves real-world problems.</em>
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 🚀 Core Directives
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)  
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)  
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
+- 🔭 **Current Mission:** Architecting `voteChain`, a decentralized voting solution.
+- 🌱 **Knowledge Expansion:** Deep diving into advanced **Machine Learning Algorithms**.
+- 💬 **Let's Connect:** Open to discussing **Front-end Development** and innovative tech.
+- 📫 **Contact Vector:** Reach me at **[imlouladam8@gmail.com](mailto:imlouladam8@gmail.com)**.
+- 📄 **Professional Journey:** Explore my experiences on **[LinkedIn](https://www.linkedin.com/in/adam-imloul-050057225/)**.
+- ⚡ **Fun Fact:** My code is fueled by syntax and snacks. ☠️
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Data Stream & Socials
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADAMFUTUR&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADAMFUTUR&theme=one_dark_pro&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMFUTUR&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+    <a href="https://github.com/ADAMFUTUR?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/adam-imloul-050057225/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/aimlwool/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://x.com/AdamImloul" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
+    <a href="https://www.youtube.com/@imlwoolchannel883" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+</p>
+
+---
+
+<details align="center">
+  <summary><h3>🛠️ Tech & Tools Arsenal</h3></summary>
+  
+  <h4>Languages</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+  
+  <h4>Frontend & Backend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white" />
+  </p>
+  
+  <h4>Databases</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </p>
+  
+  <h4>AI & Data Science</h4>
+  <p>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  </p>
+  
+  <h4>Tools & Platforms</h4>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+    <img src="https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" />
+  </p>
+</details>
+
+---
+
+### 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADAMFUTUR&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAMFUTUR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMFUTUR&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ADAMFUTUR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ADAMFUTUR&icon=7&color=12" />
+</div>
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ADAMFUTUR&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=ADAMFUTUR&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly re-designed with a futuristic touch -->
+```

@@ -16,7 +16,7 @@
 
 ### 🚀 Core Directives
 
-- 🔭 **Current Mission:** Architecting `voteChain`, a decentralized voting solution.
+- 🔭 **Current Mission:** Architecting `localmind`, a localmind in your laptop.
 - 🌱 **Knowledge Expansion:** Deep diving into advanced **Machine Learning Algorithms**.
 - 💬 **Let's Connect:** Open to discussing **Front-end Development** and innovative tech.
 - 📫 **Contact Vector:** Reach me at **[imlouladam8@gmail.com](mailto:imlouladam8@gmail.com)**.

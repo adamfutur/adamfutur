@@ -6,7 +6,7 @@
 <h3 align="center"><code>&lt; Data Scientist & AI Builder /&gt;</code></h3>
 
 <p align="center">
-  <em>Master's student in AI & Data Analysis · Research intern at <strong>UM6P</strong> · Building things that matter with ML and code</em>
+  <em>Master's student in AI & Data Analysis · Building things that matter with ML and code · Open to collabs</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-I'm a data scientist and software engineer from Morocco, currently doing my end-of-studies internship at **Université Mohammed VI Polytechnique (UM6P)**, where I'm applying machine learning to real-world hydrology and remote sensing research.
+I'm a data scientist and software engineer from Morocco, currently doing my end-of-studies internship where I'm applying machine learning to real-world hydrology and remote sensing research.
 
 My work sits at the intersection of **AI, data science, and full-stack development** — I like building things end-to-end, from the model to the interface. When I'm not coding, I'm thinking about how AI can solve problems that actually matter.
 

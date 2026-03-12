@@ -31,10 +31,10 @@ My work sits at the intersection of **AI, data science, and full-stack developme
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌍 **GroundwaterAI** | ML-based groundwater level prediction using GRACE satellite data & remote sensing signals for Morocco | Python · Scikit-learn · Pandas |
+| 🔥 **GitPro** | Autonomous repo intelligence system — AI-powered vulnerability scanning, vector embeddings & semantic chat over your codebase via RAG | Python · FastAPI · pgvector · Gemini |
 | 🤖 **LocalMind** | A local AI assistant that runs entirely on your laptop — no cloud, no API keys | Python · LLMs |
 | 🔗 **programia-** | A mini AI coding agent that writes and runs code autonomously | Python |
-| ⚡ **synq** | Sync and collaboration tooling | TypeScript |
+| 🌌 **Synq** | AI-powered social platform that matches users by personality & behavior — features compatibility scoring, micro-communities & relationship AI | React · TypeScript · Tailwind · Radix UI |
 
 ---
 

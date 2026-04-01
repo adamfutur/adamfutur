@@ -6,7 +6,7 @@
 <h3 align="center"><code>&lt; Data Scientist & AI Builder /&gt;</code></h3>
 
 <p align="center">
-  <em>Master's student in AI & Data Analysis · Building things that matter with ML and code · Open to collabs</em>
+  <em>AI & Data Analysis Engineer · Building things that matter with ML and code · Open to collabs</em>
 </p>
 
 <p align="center">

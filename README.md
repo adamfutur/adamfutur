@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-I'm a data scientist and software engineer from Morocco, currently doing my end-of-studies internship where I'm applying machine learning to real-world hydrology and remote sensing research.
+I'm an AI and software engineer from Morocco, currently doing my end-of-studies internship where I'm applying machine learning to real-world hydrology and remote sensing research.
 
 My work sits at the intersection of **AI, data science, and full-stack development** — I like building things end-to-end, from the model to the interface. When I'm not coding, I'm thinking about how AI can solve problems that actually matter.
 

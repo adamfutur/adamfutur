@@ -3,10 +3,11 @@
 </div>
 
 <h1 align="center">ADAM IMLOUL</h1>
-<h3 align="center"><code>&lt; Data Scientist & AI Builder /&gt;</code></h3>
+
+<h3 align="center"><code>&lt; Data Analyst · Data Scientist · Data & AI Builder /&gt;</code></h3>
 
 <p align="center">
-  <em>AI & Data Analysis Engineer · Building things that matter with ML and code · Open to collabs</em>
+  <em>Master's in Data Science & AI · Python · SQL · Power BI · ETL · Financial Data</em>
 </p>
 
 <p align="center">
@@ -19,75 +20,116 @@
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-I'm an AI and software engineer from Morocco, currently doing my end-of-studies internship where I'm applying machine learning to real-world hydrology and remote sensing research.
+I'm a **Data Science & AI Master's student from Morocco** with hands-on experience in data analysis, data pipelines, business intelligence, and machine learning.
 
-My work sits at the intersection of **AI, data science, and full-stack development** — I like building things end-to-end, from the model to the interface. When I'm not coding, I'm thinking about how AI can solve problems that actually matter.
+My work focuses on turning raw and heterogeneous data into **reliable, analysis-ready datasets and actionable insights**.
+
+I've worked with real-world research data during my data internship and built projects involving **Python, SQL, Power BI, ETL, PySpark, financial-market data, data quality, and machine learning**.
+
+I'm particularly interested in:
+
+- 📊 Data Analytics & Business Intelligence
+- 💰 Financial & Market Data
+- 🔄 ETL & Data Engineering
+- 🧪 Data Quality & Validation
+- 📈 Reporting & Dashboarding
+- 🤖 Machine Learning & AI
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔥 **GitPro** | Autonomous repo intelligence system — AI-powered vulnerability scanning, vector embeddings & semantic chat over your codebase via RAG | Python · FastAPI · pgvector · Gemini |
-| 🤖 **LocalMind** | A local AI assistant that runs entirely on your laptop — no cloud, no API keys | Python · LLMs |
-| 🔗 **programia-** | A mini AI coding agent that writes and runs code autonomously | Python |
-| 🌌 **Synq** | AI-powered social platform that matches users by personality & behavior — features compatibility scoring, micro-communities & relationship AI | React · TypeScript · Tailwind · Radix UI |
+| 💹 **Financial Market ETL Pipeline** | End-to-end Bronze/Silver/Gold pipeline for daily financial-market data with data-quality checks, idempotent processing, duplicate detection, and financial indicators | Python · SQL · DuckDB · PySpark · Parquet · pytest |
+| 🏦 **Bank Loan Analytics Dashboard** | Analysed 38K+ loan records and built a Power BI dashboard for portfolio segmentation, KPIs, and business analysis | SQL · Power BI · DAX |
+| 📊 **Mortgage Trading Analysis** | Financial analysis and data modeling case study focused on mortgage trading using Power BI | Power BI · Data Modeling · Financial Analysis |
+| 🌦️ **Weather Data Analysis** | Interactive analytical dashboard with a structured data model and time-based analysis | Power BI · Power Query · DAX |
+| 🤖 **GitPro** | AI-powered repository intelligence system combining code analysis, embeddings, and semantic search | Python · FastAPI · PostgreSQL · pgvector · Gemini |
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💼 Experience
+
+### Data & Research Analyst — CRSA, UM6P
+
+Worked with heterogeneous scientific and environmental datasets using Python, data validation, preprocessing, analytical modeling, and reporting.
+
+**Highlights:**
+- Integrated multiple satellite and climate data sources into analysis-ready datasets.
+- Performed data validation and quality checks across heterogeneous sources.
+- Evaluated analytical configurations using cross-validation.
+- Built reproducible Python pipelines with automated tests.
+- Communicated analytical results through Power BI and interactive tools.
+
+---
+
+## 🛠️ Technical Skills
 
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-<h4>Languages</h4>
+<h4>Data Analytics</h4>
 <p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<h4>AI & Data Science</h4>
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
-<h4>Frontend & Backend</h4>
+<h4>Business Intelligence</h4>
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+<h4>Data Engineering</h4>
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-333333?style=for-the-badge"/>
 </p>
 
 <h4>Databases</h4>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-<h4>Tools & Platforms</h4>
+<h4>Machine Learning & AI</h4>
 <p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<h4>Development & Tools</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 </details>
+
+---
+
+## 🎯 Currently Looking For
+
+I'm interested in **internship and junior opportunities** in:
+
+**Data Analytics · Business Intelligence · Financial Data · Data Engineering · Risk & Reporting · Data Science**
+
+I'm especially interested in opportunities where I can work with real-world data, build reliable analytical solutions, and continue developing my technical and business skills.
 
 ---
 
@@ -106,7 +148,13 @@ My work sits at the intersection of **AI, data science, and full-stack developme
 
 ## 📫 Let's Connect
 
-I'm always open to interesting conversations about AI, data science, or building things together. Find me on **[LinkedIn](https://www.linkedin.com/in/adam-imloul-050057225/)** or drop me a line at **[imlouladam8@gmail.com](mailto:imlouladam8@gmail.com)**.
+I'm always interested in connecting with people working in **data, analytics, finance, and AI**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adam-imloul-050057225/">LinkedIn</a>
+  ·
+  <a href="mailto:imlouladam8@gmail.com">Email</a>
+</p>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=ADAMFUTUR&icon=7&color=12"/>

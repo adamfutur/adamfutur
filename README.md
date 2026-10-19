@@ -1,5 +1,6 @@
+from pathlib import Path
 
-<div align="center">
+readme = r'''<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer working at a computer" />
 
   <h1>ADAM IMLOUL</h1>
@@ -61,7 +62,7 @@ My interests span **AI engineering, large language models (LLMs), data analytics
 | 🩺 [HAI — Health AI](https://github.com/ADAMFUTUR/HAI) | Machine learning application for predicting diabetes and heart disease from clinical data. | Python · Scikit-learn · Flask · React |
 | 📑 [Auto Report Generator](https://github.com/ADAMFUTUR/auto-report-generator) | Analyzes functional-test data, identifies anomalies, and generates reports. | Python · Pandas · Scikit-learn · Streamlit |
 
-> **More projects:** Explore my [GitHub repositories](https://github.com/ADAMFUTUR). Add your Financial Market ETL Pipeline here using its direct repository URL once confirmed.
+> **More projects:** Explore my [GitHub repositories](https://github.com/ADAMFUTUR). Add the Financial Market ETL Pipeline here using its direct repository URL once confirmed.
 
 ---
 
@@ -176,16 +177,22 @@ I'm especially interested in building practical AI systems while maintaining str
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity (2025–Present)
+
+Explore my GitHub contribution history for the period starting January 1, 2025:
+
+[**View contributions from 2025 onward →**](https://github.com/ADAMFUTUR?tab=overview&from=2025-01-01&to=2026-10-19)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADAMFUTUR&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ADAMFUTUR&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub statistics (all-time)"/>
   <img src="https://streak-stats.demolab.com/?user=ADAMFUTUR&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMFUTUR&theme=tokyonight&hide_border=true&layout=compact" alt="Most-used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADAMFUTUR&theme=tokyonight&hide_border=true&layout=compact" alt="Most-used programming languages (all-time repository language breakdown)"/>
 </div>
+
+> **Note:** The standard stats cards above are not restricted to 2025 onward. A date-filtered contribution report or a custom GitHub Actions workflow is needed for statistics calculated strictly within that period.
 
 ---
 
@@ -204,3 +211,8 @@ Interested in AI engineering, data analytics, or building something useful toget
 <div align="center">
   <sub>Thanks for visiting my profile!</sub>
 </div>
+'''
+
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created {path} ({len(readme.splitlines())} lines, {path.stat().st_size} bytes)")

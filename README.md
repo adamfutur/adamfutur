@@ -1,6 +1,5 @@
-from pathlib import Path
 
-readme = r'''<div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer working at a computer" />
 
   <h1>ADAM IMLOUL</h1>
@@ -211,8 +210,3 @@ Interested in AI engineering, data analytics, or building something useful toget
 <div align="center">
   <sub>Thanks for visiting my profile!</sub>
 </div>
-'''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({len(readme.splitlines())} lines, {path.stat().st_size} bytes)")
